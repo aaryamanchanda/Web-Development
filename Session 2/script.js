@@ -1,0 +1,1 @@
+alert("Welcome to Session 2 of Web Development!");
