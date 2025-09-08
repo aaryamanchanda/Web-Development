@@ -1,0 +1,1 @@
+alert("Welcome to the SEO and Core Web Vitals session with Aarya!");
